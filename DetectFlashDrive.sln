@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectFlashDrive", "DetectFlashDrive.csproj", "{0B4A0899-64D8-411E-9097-40C74AA6745D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B4A0899-64D8-411E-9097-40C74AA6745D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4A0899-64D8-411E-9097-40C74AA6745D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4A0899-64D8-411E-9097-40C74AA6745D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4A0899-64D8-411E-9097-40C74AA6745D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {593E344D-2A0C-4A59-BC8D-EDB96638A559}
+	EndGlobalSection
+EndGlobal
